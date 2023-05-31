@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 echo "This school is open!"
 laylay
+=======
+#!/bin/bash
+echo "This school is open!"
+>>>>>>> dc69ff91f2f0b78941548595d9d06eb24b4fd3d3
